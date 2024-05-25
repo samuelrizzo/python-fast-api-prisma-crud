@@ -18,7 +18,7 @@ Este projeto demonstra como criar um servidor FastAPI para realizar operações 
 Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/fastapi-prisma-crud.git
+git clone https://github.com/samuelrizzo/python-fast-api-prisma-crud
 cd fastapi-prisma-crud
 ```
 
